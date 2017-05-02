@@ -1,0 +1,18 @@
+﻿  main.c
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(13): warning C4047: “初始化”:“int”与“int *”的间接级别不同
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(28): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(28): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(28): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“char *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(28): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“char *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(30): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(30): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(30): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(30): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(86): warning C4133: “=”: 从“char *”到“int *”的类型不兼容
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(78): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(79): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(95): warning C4305: “初始化”: 从“double”到“float”截断
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(96): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\ccode\跟教程学习\c语言基础\c_01_08\指针1\指针1\main.c(98): warning C4133: “初始化”: 从“float *”到“int *”的类型不兼容
+  指针1.vcxproj -> F:\Ccode\跟教程学习\C语言基础\C_01_08\指针1\Debug\指针1.exe
+  指针1.vcxproj -> F:\Ccode\跟教程学习\C语言基础\C_01_08\指针1\Debug\指针1.pdb (Full PDB)

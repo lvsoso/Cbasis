@@ -1,0 +1,6 @@
+﻿  main.c
+f:\ccode\跟教程学习\c语言基础\c_01_08\5_游戏加血\5_游戏加血\main.c(6): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+    正在创建库 F:\Ccode\跟教程学习\C语言基础\C_01_08\5_游戏加血\Debug\5_游戏加血.lib 和对象 F:\Ccode\跟教程学习\C语言基础\C_01_08\5_游戏加血\Debug\5_游戏加血.exp
+LINK : warning LNK4232: 名称 5_游戏加血.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  5_游戏加血.vcxproj -> F:\Ccode\跟教程学习\C语言基础\C_01_08\5_游戏加血\Debug\5_游戏加血.dll
+  5_游戏加血.vcxproj -> F:\Ccode\跟教程学习\C语言基础\C_01_08\5_游戏加血\Debug\5_游戏加血.pdb (Full PDB)
