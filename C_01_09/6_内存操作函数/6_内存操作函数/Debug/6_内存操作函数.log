@@ -1,0 +1,13 @@
+﻿  main.c
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(82): warning C4101: “buf1”: 未引用的局部变量
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(83): warning C4101: “buf2”: 未引用的局部变量
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(110): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int (*)[4]”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(110): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(110): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(110): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“int (*)[4]”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(110): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(111): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int (*)[4]”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(111): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+f:\ccode\跟教程学习\c语言基础\c_01_09\6_内存操作函数\6_内存操作函数\main.c(84): warning C4716: “main04”: 必须返回一个值
+  6_内存操作函数.vcxproj -> F:\Ccode\跟教程学习\C语言基础\C_01_09\6_内存操作函数\Debug\6_内存操作函数.exe
+  6_内存操作函数.vcxproj -> F:\Ccode\跟教程学习\C语言基础\C_01_09\6_内存操作函数\Debug\6_内存操作函数.pdb (Full PDB)
